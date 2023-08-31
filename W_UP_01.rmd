@@ -62,6 +62,16 @@ This seems to indicate that skilled positions can do more push-ups than line pos
 
 
 
+
+
+
+
+```{r}
+favstats(pushups~position,data=mydata)
+```
+
+The average number of push-ups that a line player can do is about one third the amount of an average skilled player.
+
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here. If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason. Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
